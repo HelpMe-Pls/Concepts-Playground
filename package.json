@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HelpMe-Pls/Concepts-Playground/issues"
   },
-  "homepage": "https://github.com/HelpMe-Pls/Concepts-Playground#readme"
+  "homepage": "https://github.com/HelpMe-Pls/Concepts-Playground#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.2"
+  }
 }
