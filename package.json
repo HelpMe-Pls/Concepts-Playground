@@ -1,0 +1,19 @@
+{
+  "name": "concepts-playground",
+  "version": "1.0.0",
+  "description": "Concepts-Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelpMe-Pls/Concepts-Playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelpMe-Pls/Concepts-Playground/issues"
+  },
+  "homepage": "https://github.com/HelpMe-Pls/Concepts-Playground#readme"
+}
