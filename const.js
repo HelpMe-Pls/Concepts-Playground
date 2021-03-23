@@ -4,4 +4,5 @@ export const PARAM_SEARCH = "query=";
 export const PARAM_PAGE = "page=";
 export const PARAM_HPP = "hitsPerPage=";
 
+const a = 6;
 
