@@ -5,4 +5,4 @@ export const PARAM_PAGE = "page=";
 export const PARAM_HPP = "hitsPerPage=";
 
 const a = 6;
-
+const b = 9;
